@@ -1,0 +1,23 @@
+header {
+    top: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 2em;
+    line-height: 2em; /* Vertically center the text there */
+    background-color: #007b6d;
+  }
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 2em;
+    line-height: 2em; /* Vertically center the text there */
+    background-color: #007b6d;
+  }
+.round {
+	border-radius: 16px;
+}
+.main-container{
+  margin-top: 80px;
+}
